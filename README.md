@@ -2,4 +2,4 @@ Hello-World
 ===========
 
 a hello-world test
-I lova :coffee:,:pizza: and :dancer:.
+I love :coffee:,:pizza: and :dancer:.
